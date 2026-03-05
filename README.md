@@ -4,7 +4,7 @@
 
 Este proyecto tiene como objetivo desarrollar un sistema que permita gestionar, procesar y poner a disposición de los médicos especialistas los resultados de análisis clínicos de forma rápida, segura y organizada.
 
-La plataforma busca mejorar la comunicación entre laboratorios y profesionales sanitarios, facilitando el acceso a la información clínica necesaria para la toma de decisiones médicas.
+Con esta plataforma buscamos mejorar la comunicación entre laboratorios y profesionales sanitarios, facilitando el acceso a la información clínica necesaria para la toma de decisiones médicas.
 
 ---
 
