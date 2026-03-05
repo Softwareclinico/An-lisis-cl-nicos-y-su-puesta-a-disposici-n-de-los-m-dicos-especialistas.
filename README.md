@@ -1,18 +1,70 @@
-Repositorio para la realización de la practica 01
+# Análisis clínicos y su puesta a disposición de los médicos especialistas
 
-Descripción del proyecto: 
+## Descripción
 
-Integrantes del equipo:
+Este proyecto tiene como objetivo desarrollar un sistema que permita gestionar, procesar y poner a disposición de los médicos especialistas los resultados de análisis clínicos de forma rápida, segura y organizada.
 
-Rubén Quintano Herrero
-Mikel Lasa Ariesteguieta
-Adrés Carballo Pardal
-Rubén Peña Peréz
+La plataforma busca mejorar la comunicación entre laboratorios y profesionales sanitarios, facilitando el acceso a la información clínica necesaria para la toma de decisiones médicas.
 
-Objetivos del proyecto: Identificar y documentar requisitos funcionales y no funcionales.
+---
 
-Definir historias de usuario y criterios de aceptación.
+# Objetivos
 
-Gestionar el proyecto mediante metodología ágil (Sprints).
+- Centralizar la gestión de análisis clínicos.
+- Permitir que los médicos especialistas accedan a los resultados de forma rápida y segura.
+- Facilitar la gestión de pacientes y sus historiales de análisis.
+- Mejorar la comunicación entre laboratorios y especialistas.
+- Garantizar la seguridad y privacidad de los datos médicos.
+- Implementar un sistema organizado y escalable para la gestión de información clínica.
 
-Mantener trazabilidad mediante Issues y Milestones.
+---
+
+# Integrantes del proyecto
+
+- Rubén Quintano Herrero  
+- Mikel Lasa Ariesteguieta  
+- Andrés Carballo Pardal  
+- Rubén Peña Pérez  
+
+---
+
+# Planificación del proyecto
+
+El desarrollo del proyecto se organiza mediante **sprints**, siguiendo una metodología de trabajo iterativa.
+
+## Sprint 1 — Análisis y planificación del proyecto
+
+- Kickoff y alcance  
+- Arquitectura y base del repositorio  
+
+---
+
+## Sprint 2 — Base del sistema
+
+- Modelo de datos y persistencia  
+- Autenticación y autorización (RBAC)  
+- Gestión de pacientes y profesionales  
+
+---
+
+## Sprint 3 — Procesamiento del laboratorio
+
+- Solicitudes de análisis clínicos  
+- Flujo de laboratorio  
+- Resultados y publicación  
+- Interfaz del médico / especialista  
+
+---
+
+## Sprint 4 — Seguridad, calidad y entrega
+
+- Notificaciones y comunicación  
+- Seguridad, privacidad y auditoría  
+- Pruebas y calidad  
+- Despliegue y documentación final  
+
+---
+
+
+
+Proyecto académico desarrollado con fines educativos.
