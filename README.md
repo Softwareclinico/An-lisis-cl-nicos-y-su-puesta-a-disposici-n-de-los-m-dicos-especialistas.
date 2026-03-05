@@ -8,7 +8,7 @@ La plataforma busca mejorar la comunicación entre laboratorios y profesionales 
 
 ---
 
-# Objetivos
+## Objetivos
 
 - Centralizar la gestión de análisis clínicos.
 - Permitir que los médicos especialistas accedan a los resultados de forma rápida y segura.
@@ -19,7 +19,7 @@ La plataforma busca mejorar la comunicación entre laboratorios y profesionales 
 
 ---
 
-# Integrantes del proyecto
+## Integrantes del proyecto
 
 - Rubén Quintano Herrero  
 - Mikel Lasa Ariesteguieta  
@@ -28,18 +28,18 @@ La plataforma busca mejorar la comunicación entre laboratorios y profesionales 
 
 ---
 
-# Planificación del proyecto
+## Planificación del proyecto
 
-El desarrollo del proyecto se organiza mediante **sprints**, siguiendo una metodología de trabajo iterativa.
+El desarrollo de nuestro proyecto se organiza mediante **sprints**, los cuales son los siguientes: 
 
-## Sprint 1 — Análisis y planificación del proyecto
+### Sprint 1 — Análisis y planificación del proyecto
 
 - Kickoff y alcance  
 - Arquitectura y base del repositorio  
 
 ---
 
-## Sprint 2 — Base del sistema
+### Sprint 2 — Base del sistema
 
 - Modelo de datos y persistencia  
 - Autenticación y autorización (RBAC)  
@@ -47,7 +47,7 @@ El desarrollo del proyecto se organiza mediante **sprints**, siguiendo una metod
 
 ---
 
-## Sprint 3 — Procesamiento del laboratorio
+### Sprint 3 — Procesamiento del laboratorio
 
 - Solicitudes de análisis clínicos  
 - Flujo de laboratorio  
@@ -56,7 +56,7 @@ El desarrollo del proyecto se organiza mediante **sprints**, siguiendo una metod
 
 ---
 
-## Sprint 4 — Seguridad, calidad y entrega
+### Sprint 4 — Seguridad, calidad y entrega
 
 - Notificaciones y comunicación  
 - Seguridad, privacidad y auditoría  
