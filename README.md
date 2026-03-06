@@ -14,7 +14,7 @@ Con esta plataforma buscamos mejorar la comunicación entre laboratorios y profe
 - Permitir que los médicos especialistas accedan a los resultados de forma rápida y segura.
 - Facilitar la gestión de pacientes y sus historiales de análisis.
 - Mejorar la comunicación entre laboratorios y especialistas.
-- Garantizar la seguridad y privacidad de los datos médicos.
+- Garantizar la seguridad y privacidad de los datos médicos a través de medidas de protección de datos.
 - Implementar un sistema organizado y escalable para la gestión de información clínica.
 
 ---
