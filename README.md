@@ -34,8 +34,10 @@ El desarrollo de nuestro proyecto se organiza mediante **sprints**, los cuales s
 
 ### Sprint 1 — Análisis y planificación del proyecto
 
-- Kickoff y alcance  
-- Arquitectura y base del repositorio  
+- Kickoff y alcance
+- Arquitectura y base del repo
+- Modelo de datos y persistencia
+
 
 ---
 
